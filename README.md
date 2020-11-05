@@ -3,9 +3,13 @@ Python implementation of Expanding Label Sets for Graph Convolutional Networks w
 
 
 Requirements
+
 Python 3
+
 tensorflow
+
 networkx
+
 scikit-learn
 
 
